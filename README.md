@@ -5,17 +5,17 @@ Employee teacker a command line application that allows to veiw and interact inf
 This application allows to add and view - department,role and employees.Also allows to updated employee roles.
 
 ## Technology Use
-inquirer
-mySQL
-console.table
-Javascript
-Node.js
+* inquirer
+* mySQL
+* console.table
+* Javascript
+* Node.js
 
 ## Installation
-npm install inquirer
-npm i
-npm i mysql12
-npm i console.table
+* npm install inquirer
+* npm i
+* npm i mysql12
+* npm i console.table
 
 ## Database Schema
 
