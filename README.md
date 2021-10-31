@@ -1,8 +1,8 @@
 # Employee-Tracker
 
 ## Description
-Employee teacker a command line application that allows to veiw and interact infomation stored in the database.
-This application allows to add and view - department,role and employees.Also allows to updated employee roles.
+Employee tacker a command line application that allows to view and interact information stored in the database.
+This application allows to add and view - department, role and employees. Also allows to updated employee roles.
 
 ## Technology Use
 * inquirer
@@ -35,10 +35,10 @@ This Node command-line application allows the user to:
   
 ## Demo
 
-![Add Deparment Gif](./assets/images/Add-Deparment.gif)
+![Add Department Gif](./assets/images/Add-Deparment.gif)
 ![Employees tables](./assets/images/Employee-tables.gif)
-![Add reove Employees](./assets/images/Add-remove-employees.gif)
-![Deparment name](./assets/images/Department_names.gif)
+![Add remove Employees](./assets/images/Add-remove-employees.gif)
+![Department name](./assets/images/Department_names.gif)
 
 ## Link
 https://watch.screencastify.com/v/iSw1ywlCfzcCIvVzEtyr
