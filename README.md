@@ -1,7 +1,7 @@
 # Employee-Tracker
 
 ## Description
-Employee tacker a command line application that allows to view and interact information stored in the database.
+Employee tracker a command line application that allows to view and interact information stored in the database.
 This application allows to add and view - department, role and employees. Also allows to updated employee roles.
 
 ## Technology Use
