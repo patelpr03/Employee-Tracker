@@ -34,11 +34,18 @@ This Node command-line application allows the user to:
   * Update employee roles
   
 ## Demo
-![Employees infomation](./assets/images/employee-infomation1.gif)
+
 ![Add Deparment Gif](./assets/images/Add-Deparment.gif)
 ![Employees tables](./assets/images/Employee-tables.gif)
 ![Add reove Employees](./assets/images/Add-remove-employees.gif)
 ![Deparment name](./assets/images/Department_names.gif)
+
+## Link
+https://watch.screencastify.com/v/iSw1ywlCfzcCIvVzEtyr
+https://watch.screencastify.com/v/qkh8gJRt4h3EW8dMYyWB
+https://watch.screencastify.com/v/AM5QTokO1GXOacgZr8bT
+https://watch.screencastify.com/v/TwUEiDkK30gWZAmGFUKc
+https://watch.screencastify.com/v/R4cT6ivVQ3ZTdKQBH5zv
 
 
 ## Repository
