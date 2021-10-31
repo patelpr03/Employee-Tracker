@@ -5,17 +5,17 @@ Employee teacker a command line application that allows to veiw and interact inf
 This application allows to add and view - department,role and employees.Also allows to updated employee roles.
 
 ## Technology Use
-    inquirer
-    mySQL
-    console.table
-    Javascript
-    Node.js
+inquirer
+mySQL
+console.table
+Javascript
+Node.js
 
 ## Installation
-    npm install inquirer
-    npm i
-    npm i mysql12
-    npm i console.table
+npm install inquirer
+npm i
+npm i mysql12
+npm i console.table
 
 ## Database Schema
 
@@ -35,15 +35,15 @@ This Node command-line application allows the user to:
   
 ## Demo
 ![Employees infomation](./assets/images/employee-infomation1.gif)
-![Employees tables](./assets/images/Employee-tables.gif)
 ![Add Deparment Gif](./assets/images/Add-Deparment.gif)
+![Employees tables](./assets/images/Employee-tables.gif)
 ![Add reove Employees](./assets/images/Add-remove-employees.gif)
 ![Deparment name](./assets/images/Department_names.gif)
 
 
 ## Repository
 
--[Project Repo]()
+https://github.com/patelpr03/Employee-Tracker
 
 ## Contributors
 
